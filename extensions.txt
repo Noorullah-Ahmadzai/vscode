@@ -25,3 +25,4 @@
 25: 'Sublime Text Keymap'
 26: 'VsCode Icon'
 27: 'IntelliSense for CSS class names in HTML'
+28: 'Image Preview'
